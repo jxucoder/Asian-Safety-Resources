@@ -1,6 +1,6 @@
 ### Asian-Voices
 
-[A Vocal Record](https://www.avocalrecord.com/)
+[A Vocal Record](https://www.avocalrecord.com/): dedicated to the collective experience of people of Asian descent in the United States, especially during the COVID-19 pandemic. 
 
 
 ### Safety materials
