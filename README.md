@@ -1,6 +1,6 @@
 ### Campaigns
 - [A Vocal Record](https://www.avocalrecord.com/): dedicated to the collective experience of people of Asian descent in the United States, especially during the COVID-19 pandemic. 
-- [Stop AAPI Hate](https://stopaapihate.org/):Do you have a hate incident to report? Help document the recent rise in hate crimes against Asian American elders by going to https://stopaapihate.org/.
+- [Stop AAPI Hate](https://stopaapihate.org/): Do you have a hate incident to report? Help document the recent rise in hate crimes against Asian American elders by going to https://stopaapihate.org/.
 
 
 ### Safety materials
