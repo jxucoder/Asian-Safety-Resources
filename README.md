@@ -5,3 +5,4 @@
 
 ### Safety materials
 [AAF One-pagers](https://aafcovid19resourcecenter.org/safety-resources/)
+[AAF Booklets](https://drive.google.com/drive/folders/1byPdRyvctgsd_GbWuivoLJcklA03VnK-)
